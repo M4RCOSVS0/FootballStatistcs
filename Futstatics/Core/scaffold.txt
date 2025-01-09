@@ -1,0 +1,1 @@
+﻿dotnet ef dbcontext scaffold "Server=localhost; Database=FUTSTATICS; Trusted_Connection=True; MultipleActiveResultSets=true; TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -p .\Core -o Models -f -c FutstaticsContext

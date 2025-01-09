@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15B1897E-11F4-4E8C-9942-E388420843E9}|FutstaticsWeb\\FutstaticsWeb.csproj|c:\\users\\marcos\\documents\\github\\meus projetos\\footballstatistcs\\futstatics\\futstaticsweb\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B1897E-11F4-4E8C-9942-E388420843E9}|FutstaticsWeb\\FutstaticsWeb.csproj|solutionrelative:futstaticsweb\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B1897E-11F4-4E8C-9942-E388420843E9}|FutstaticsWeb\\FutstaticsWeb.csproj|c:\\users\\marcos\\documents\\github\\meus projetos\\footballstatistcs\\futstatics\\futstaticsweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B1897E-11F4-4E8C-9942-E388420843E9}|FutstaticsWeb\\FutstaticsWeb.csproj|solutionrelative:futstaticsweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAA0A09-68C8-4745-A466-5CCBA4D81027}|Service\\Service.csproj|c:\\users\\marcos\\documents\\github\\meus projetos\\footballstatistcs\\futstatics\\service\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAA0A09-68C8-4745-A466-5CCBA4D81027}|Service\\Service.csproj|solutionrelative:service\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A612F407-F215-4350-A5EA-96CE6AB185B1}|Core\\Core.csproj|c:\\users\\marcos\\documents\\github\\meus projetos\\footballstatistcs\\futstatics\\core\\service\\ijogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A612F407-F215-4350-A5EA-96CE6AB185B1}|Core\\Core.csproj|solutionrelative:core\\service\\ijogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A612F407-F215-4350-A5EA-96CE6AB185B1}|Core\\Core.csproj|c:\\users\\marcos\\documents\\github\\meus projetos\\footballstatistcs\\futstatics\\core\\models\\futstaticscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A612F407-F215-4350-A5EA-96CE6AB185B1}|Core\\Core.csproj|solutionrelative:core\\models\\futstaticscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A612F407-F215-4350-A5EA-96CE6AB185B1}|Core\\Core.csproj|c:\\users\\marcos\\documents\\github\\meus projetos\\footballstatistcs\\futstatics\\core\\scaffold.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A612F407-F215-4350-A5EA-96CE6AB185B1}|Core\\Core.csproj|solutionrelative:core\\scaffold.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B1897E-11F4-4E8C-9942-E388420843E9}|FutstaticsWeb\\FutstaticsWeb.csproj|c:\\users\\marcos\\documents\\github\\meus projetos\\footballstatistcs\\futstatics\\futstaticsweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15B1897E-11F4-4E8C-9942-E388420843E9}|FutstaticsWeb\\FutstaticsWeb.csproj|solutionrelative:futstaticsweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B1897E-11F4-4E8C-9942-E388420843E9}|FutstaticsWeb\\FutstaticsWeb.csproj|c:\\users\\marcos\\documents\\github\\meus projetos\\footballstatistcs\\futstatics\\futstaticsweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15B1897E-11F4-4E8C-9942-E388420843E9}|FutstaticsWeb\\FutstaticsWeb.csproj|solutionrelative:futstaticsweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "scaffold.txt",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\Core\\scaffold.txt",
+              "RelativeDocumentMoniker": "Core\\scaffold.txt",
+              "ToolTip": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\Core\\scaffold.txt",
+              "RelativeToolTip": "Core\\scaffold.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-08T00:13:57.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\FutstaticsWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "FutstaticsWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\FutstaticsWeb\\appsettings.json",
+              "RelativeToolTip": "FutstaticsWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T00:01:08.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogoController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\FutstaticsWeb\\Controllers\\JogoController.cs",
+              "RelativeDocumentMoniker": "FutstaticsWeb\\Controllers\\JogoController.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\FutstaticsWeb\\Controllers\\JogoController.cs",
+              "RelativeToolTip": "FutstaticsWeb\\Controllers\\JogoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:08:34.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JogoService.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\Service\\JogoService.cs",
+              "RelativeDocumentMoniker": "Service\\JogoService.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\Service\\JogoService.cs",
+              "RelativeToolTip": "Service\\JogoService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:06:01.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJogoService.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\Core\\Service\\IJogoService.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\IJogoService.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\Core\\Service\\IJogoService.cs",
+              "RelativeToolTip": "Core\\Service\\IJogoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:04:43.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FutstaticsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\Core\\Models\\FutstaticsContext.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\FutstaticsContext.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\Core\\Models\\FutstaticsContext.cs",
+              "RelativeToolTip": "Core\\Models\\FutstaticsContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:02:25.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\FutstaticsWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FutstaticsWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\FutstaticsWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FutstaticsWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T00:01:32.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\FutstaticsWeb\\Program.cs",
+              "RelativeDocumentMoniker": "FutstaticsWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Documents\\GitHub\\Meus Projetos\\FootballStatistcs\\Futstatics\\FutstaticsWeb\\Program.cs",
+              "RelativeToolTip": "FutstaticsWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:58:17.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
